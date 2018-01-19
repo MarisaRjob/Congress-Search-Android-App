@@ -2,7 +2,7 @@
 
 An Android project to search and bookmark congressman, view and collect information of legislators, bills, and committee members.
 ## UI Design and Development
-### Slide out Menu
+### Main Menu
 
 ![capture](https://user-images.githubusercontent.com/23087939/31148137-b8260324-a840-11e7-9703-1823f8fd4991.PNG)
 

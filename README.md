@@ -15,12 +15,13 @@ An Android project to search and bookmark congressman, view and collect informat
 ![capture3](https://user-images.githubusercontent.com/23087939/31148138-b828a886-a840-11e7-8456-39a699300a78.PNG)
 #### Legislator Details
 ![capture4](https://user-images.githubusercontent.com/23087939/31148135-b825104a-a840-11e7-94b6-d201b1a3140b.PNG)
+![image](https://user-images.githubusercontent.com/23087939/35163352-4169bca2-fcfb-11e7-8125-ec5206957826.png)
 #### Legislator Facebook Page
-![Uploading Capture5.PNG…]()
-#### Legislator Twitter Page
 ![capture6](https://user-images.githubusercontent.com/23087939/31148149-b85d052c-a840-11e7-95de-7eb52726bc35.PNG)
-#### Senate Government Page
+#### Legislator Twitter Page
 ![capture7](https://user-images.githubusercontent.com/23087939/31148141-b83796f2-a840-11e7-9268-22641aee8ac1.PNG)
+#### Senate Government Page
+
 
 ### Bills
 #### Active Bills

@@ -1,10 +1,21 @@
 # Congress-Search-Android-App
-An Android project to manage legislator, bill and committee member
+
+An Android project to search and bookmark congressman, view and collect information of legislators, bills, and committee members.
+## UI Design and Development
+### Slide out Menu
+
 ![capture](https://user-images.githubusercontent.com/23087939/31148137-b8260324-a840-11e7-9703-1823f8fd4991.PNG)
+
+### Legislators
+#### Filter by States
 ![capture1](https://user-images.githubusercontent.com/23087939/31148136-b825b090-a840-11e7-9178-29d97f1d7b97.PNG)
+#### Filter by House
 ![capture2](https://user-images.githubusercontent.com/23087939/31148139-b82ed4a4-a840-11e7-9bf9-78b400c5553a.PNG)
+#### Filter by Senate
 ![capture3](https://user-images.githubusercontent.com/23087939/31148138-b828a886-a840-11e7-8456-39a699300a78.PNG)
+#### Legislator Details
 ![capture4](https://user-images.githubusercontent.com/23087939/31148135-b825104a-a840-11e7-94b6-d201b1a3140b.PNG)
+
 ![Uploading Capture5.PNG…]()
 ![capture6](https://user-images.githubusercontent.com/23087939/31148149-b85d052c-a840-11e7-95de-7eb52726bc35.PNG)
 ![capture7](https://user-images.githubusercontent.com/23087939/31148141-b83796f2-a840-11e7-9268-22641aee8ac1.PNG)
